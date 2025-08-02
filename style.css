@@ -45,8 +45,8 @@ body {
     cursor: pointer;
 }
 .search button img {
-    width: 14px;
-    height: 14px;
+    width: 25px;
+    height: 18px;
 }
 .weather-icon{
     width: 170px;
